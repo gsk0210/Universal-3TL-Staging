@@ -32,5 +32,5 @@ jobs:
        with:
           version: '8.2.0'    
           projectPath: '${{ github.WORKSPACE }}'
-          args: '-noSplash -retry=0 -testSuiteCollectionPath="Test Suites/Test collection 2"  -apiKey= ${{ secrets.SECRETS_API_KEY }}   --config -proxy.auth.option=NO_PROXY -proxy.system.option=NO_PROXY -proxy.system.applyToDesiredCapabilities=true'
+          args: '-noSplash -retry=0 -testSuiteCollectionPath="Test Suites/Add New Movie to Validate Code.ts"  -apiKey= ${{ secrets.SECRETS_API_KEY }}   --config -proxy.auth.option=NO_PROXY -proxy.system.option=NO_PROXY -proxy.system.applyToDesiredCapabilities=true'
      
