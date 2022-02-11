@@ -28,7 +28,7 @@ jobs:
      - name: Checkout
        uses: actions/checkout@v2
      - name: Katalon Studio Github Action
-       uses: katalon-studio/katalon-studio-github-action@v0.9
+       uses: katalon-studio/katalon-studio-github-action@0.9
        with:
           version: '8.2.0'
     
