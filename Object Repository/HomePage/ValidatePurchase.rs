@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ValidatePurchase</name>
+   <tag></tag>
+   <elementGuidId>4020acca-52fd-4584-a2fc-7ada9a2a4234</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@id='togglebtn']/ul/div/li[2]/a[@href='javascript:void(0)']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@id='togglebtn']/ul/div/li[2]/a[@href='javascript:void(0)']</value>
+   </webElementProperties>
+</WebElementEntity>

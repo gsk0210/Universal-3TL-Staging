@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Director</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e4394b01-57f2-4ec1-b1e7-518b33269e26</testCaseGuid>
+   <variable>
+      <defaultValue>'test0305two@yopmail.com'</defaultValue>
+      <description>Email used by the QA for testing the user on Movie Star level.</description>
+      <id>2b7de059-ae8b-4d9f-9a73-df59b096c288</id>
+      <masked>false</masked>
+      <name>userEmail</name>
+   </variable>
+   <variable>
+      <defaultValue>'3tl@testing'</defaultValue>
+      <description>Password for this user</description>
+      <id>2d4c76c8-450c-47ac-af6d-71c457304541</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.videoTitle</defaultValue>
+      <description>This title can be changed</description>
+      <id>e0ff44c7-9ffc-406b-8760-ee586f10c7ec</id>
+      <masked>false</masked>
+      <name>videoTitle</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.shortDescription</defaultValue>
+      <description>Short description on the page</description>
+      <id>3dbbfe13-2fcb-495c-b3c0-b7b30261c6d1</id>
+      <masked>false</masked>
+      <name>shortDescription</name>
+   </variable>
+   <variable>
+      <defaultValue>'/home/knoldus/Desktop/3TL/Portals/Universal/Katalon Screenshots/F9 The Fast Saga: Unparalleled/Movie Star/EarnPointspage.png'</defaultValue>
+      <description></description>
+      <id>b1e1cc81-60d7-4c87-a58f-e14f6ffe2ada</id>
+      <masked>false</masked>
+      <name>savePath</name>
+   </variable>
+   <variable>
+      <defaultValue>'45befa0a831b6dec17467f9790bb18c9'</defaultValue>
+      <description>Behavior id of the Earn Point action</description>
+      <id>57474da8-88a2-4140-a1f1-9e8a6ef131d1</id>
+      <masked>false</masked>
+      <name>behavior_id</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.long_description</defaultValue>
+      <description>Long Description on the preview page</description>
+      <id>82de48c3-21c6-4559-a2fd-d518557d1819</id>
+      <masked>false</masked>
+      <name>long_description</name>
+   </variable>
+   <variable>
+      <defaultValue>'22'</defaultValue>
+      <description>Points earned on sucessfully watching the video.</description>
+      <id>eefa9e5a-3279-49d0-be74-787e12db4fdf</id>
+      <masked>false</masked>
+      <name>points</name>
+   </variable>
+   <variable>
+      <defaultValue>'/home/knoldus/Desktop/3TL/Portals/Universal/Katalon Screenshots/No Time To Die: Jamaica/Movie Star/Preview.png'</defaultValue>
+      <description></description>
+      <id>cf3e95df-4d64-4943-9023-5c228e5e6f04</id>
+      <masked>false</masked>
+      <name>savePreview</name>
+   </variable>
+   <variable>
+      <defaultValue>'/home/knoldus/Desktop/3TL/Portals/Universal/Katalon Screenshots/No Time To Die: Jamaica/Director/'</defaultValue>
+      <description></description>
+      <id>28ae4bf8-5cdd-4009-8c89-749f03429d6e</id>
+      <masked>false</masked>
+      <name>path</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.toastElement</defaultValue>
+      <description></description>
+      <id>004a6120-7068-449e-8856-cc424b09c4cb</id>
+      <masked>false</masked>
+      <name>toastElement</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.videoTitles</defaultValue>
+      <description></description>
+      <id>90a5fddd-0061-42e5-b29e-39520cc711ab</id>
+      <masked>false</masked>
+      <name>videoTitles</name>
+   </variable>
+</TestCaseEntity>

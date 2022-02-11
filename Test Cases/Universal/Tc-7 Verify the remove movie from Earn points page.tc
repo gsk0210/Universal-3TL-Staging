@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tc-7 Verify the remove movie from Earn points page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1a495129-1651-46a1-8ed2-eefb0c59a031</testCaseGuid>
+   <variable>
+      <defaultValue>'Addams Family 2 Trailer'</defaultValue>
+      <description></description>
+      <id>a7d0a339-5caa-4e35-b97c-f8e7b4aa8aae</id>
+      <masked>false</masked>
+      <name>short_des1</name>
+   </variable>
+   <variable>
+      <defaultValue>'Old Trailer'</defaultValue>
+      <description></description>
+      <id>fa15de03-aaaa-4b37-9531-35e0fb2169a3</id>
+      <masked>false</masked>
+      <name>short_des2</name>
+   </variable>
+</TestCaseEntity>

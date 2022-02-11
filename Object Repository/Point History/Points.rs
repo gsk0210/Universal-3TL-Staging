@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Points</name>
+   <tag></tag>
+   <elementGuidId>4b3b7520-31bf-4f6f-8845-7168d71dfeac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//app-root/app-manage-account[@class='ng-star-inserted']/section[@class='manage-account-page']//app-point-history[@class='ng-star-inserted']//mat-table[@role='grid']/mat-row[1]/mat-cell[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//app-root/app-manage-account[@class='ng-star-inserted']/section[@class='manage-account-page']//app-point-history[@class='ng-star-inserted']//mat-table[@role='grid']/mat-row[1]/mat-cell[3]</value>
+   </webElementProperties>
+</WebElementEntity>

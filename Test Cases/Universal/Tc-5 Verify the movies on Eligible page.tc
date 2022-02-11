@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tc-5 Verify the movies on Eligible page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f0139825-5bab-4bb5-ba8d-7e1250df4dc4</testCaseGuid>
+   <variable>
+      <defaultValue>'Halloween Kills'</defaultValue>
+      <description></description>
+      <id>bea35cd0-48eb-43c5-85a5-64e3fec738d6</id>
+      <masked>false</masked>
+      <name>title</name>
+   </variable>
+   <variable>
+      <defaultValue>'Product Insert Code'</defaultValue>
+      <description></description>
+      <id>087f6b49-ccba-41d2-aecc-dc6167f58b56</id>
+      <masked>false</masked>
+      <name>Validation_type</name>
+   </variable>
+   <variable>
+      <defaultValue>'4K'</defaultValue>
+      <description></description>
+      <id>1586abef-235f-4290-b405-dd3245335a7e</id>
+      <masked>false</masked>
+      <name>format</name>
+   </variable>
+   <variable>
+      <defaultValue>'1-9132-92112-5-0'</defaultValue>
+      <description></description>
+      <id>a343c8ad-4ca9-40bd-855b-ad5ba8ac6a9f</id>
+      <masked>false</masked>
+      <name>UPC</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Movie Star</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>584e83c6-536b-4105-8f98-5266422b6119</testCaseGuid>
+   <variable>
+      <defaultValue>'test0405'</defaultValue>
+      <description>Email used by the QA for testing the user on Movie Star level.</description>
+      <id>3e0e15ba-9d52-4aa8-ba41-15671765ed76</id>
+      <masked>false</masked>
+      <name>userEmail</name>
+   </variable>
+   <variable>
+      <defaultValue>'3tl@testing'</defaultValue>
+      <description>Password for this user</description>
+      <id>e8388285-edc0-4fbe-80f2-77a4d76d5c1f</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'No Time To Die: Jamaica'</defaultValue>
+      <description>This title can be changed</description>
+      <id>a83aa4ee-ce9e-4ae2-9768-f5540ef6df4a</id>
+      <masked>false</masked>
+      <name>videoTitle</name>
+   </variable>
+   <variable>
+      <defaultValue>'Cast &amp; Crew talk about filming in Jamaica'</defaultValue>
+      <description>Short description on the page</description>
+      <id>7b6aff17-ab84-47b0-ad32-96d76add11b6</id>
+      <masked>false</masked>
+      <name>shortDescription</name>
+   </variable>
+   <variable>
+      <defaultValue>'/home/knoldus/Desktop/3TL/Portals/Universal/Katalon Screenshots/F9 The Fast Saga: Unparalleled/Movie Star/EarnPointspage.png'</defaultValue>
+      <description></description>
+      <id>74fde185-3e3c-4eb0-870f-295f34551707</id>
+      <masked>false</masked>
+      <name>savePath</name>
+   </variable>
+   <variable>
+      <defaultValue>'45befa0a831b6dec17467f9790bb18c9'</defaultValue>
+      <description>Behavior id of the Earn Point action</description>
+      <id>21712245-cd56-4f1c-9e1e-8b172dc62a56</id>
+      <masked>false</masked>
+      <name>behavior_id</name>
+   </variable>
+   <variable>
+      <defaultValue>'Jamaica has long been synonymous with Ian Fleming and his James Bond. Go behind-the-scenes as the cast talk about filming in this vibrant location.'</defaultValue>
+      <description>Long Description on the preview page</description>
+      <id>cedcdbd5-9d95-47f8-805b-977882147356</id>
+      <masked>false</masked>
+      <name>long_description</name>
+   </variable>
+   <variable>
+      <defaultValue>'24'</defaultValue>
+      <description>Points earned on sucessfully watching the video.</description>
+      <id>d80a398e-6831-4a18-a83a-e2033ee5357b</id>
+      <masked>false</masked>
+      <name>points</name>
+   </variable>
+   <variable>
+      <defaultValue>'/home/knoldus/Desktop/3TL/Portals/Universal/Katalon Screenshots/No Time To Die: Jamaica/Movie Star/Preview.png'</defaultValue>
+      <description></description>
+      <id>4dcc79c9-61de-487f-88e1-e8974f0920be</id>
+      <masked>false</masked>
+      <name>savePreview</name>
+   </variable>
+   <variable>
+      <defaultValue>'/home/knoldus/Desktop/3TL/Portals/Universal/Katalon Screenshots/F9 The Fast Saga: Unparalleled/Movie Star/'</defaultValue>
+      <description></description>
+      <id>a0df405a-2290-4caf-8a35-cffee3b92658</id>
+      <masked>false</masked>
+      <name>path</name>
+   </variable>
+</TestCaseEntity>

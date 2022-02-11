@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login with Users</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>09e11283-a024-4648-b861-f2259bdb208c</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0d88614c-46db-4f05-b34f-c56c206ab7d4</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ecc2f645-a42f-4287-86b5-3598d9f00f56</id>
+      <masked>false</masked>
+      <name>Pswrd</name>
+   </variable>
+</TestCaseEntity>

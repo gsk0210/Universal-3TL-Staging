@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tc-6- Verify the Contest entry on reward page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a0fa452c-9bf8-47f3-9be5-cbaa25b66a23</testCaseGuid>
+   <variable>
+      <defaultValue>'https://universal.3tlstaging.com/reward-preview/8be1c7b396cf9d694babd31c3202f0bc-9ef6e6b92d1f5ca1fd4e6cac7d048def'</defaultValue>
+      <description></description>
+      <id>91aafe07-9948-4a04-80f2-b66bed97bc68</id>
+      <masked>false</masked>
+      <name>behaviour_id</name>
+   </variable>
+   <variable>
+      <defaultValue>'F9: The Fast Saga'</defaultValue>
+      <description></description>
+      <id>406b485e-7baf-4566-8191-277485b51be6</id>
+      <masked>false</masked>
+      <name>short_des</name>
+   </variable>
+   <variable>
+      <defaultValue>'&quot;The Armadillo&quot; Video Conferencing Background'</defaultValue>
+      <description></description>
+      <id>eee98b08-7eff-4abb-83fe-2ff1cd43950e</id>
+      <masked>false</masked>
+      <name>long_des</name>
+   </variable>
+   <variable>
+      <defaultValue>'Sorry! You’ve already redeemed this reward.'</defaultValue>
+      <description></description>
+      <id>a9883899-f3d2-4494-a24a-979c6c8d82a4</id>
+      <masked>false</masked>
+      <name>popup_message</name>
+   </variable>
+   <variable>
+      <defaultValue>'You\'ve redeemed a reward!'</defaultValue>
+      <description></description>
+      <id>2738ffa2-d162-46e6-aef5-3dadd2e43fb7</id>
+      <masked>false</masked>
+      <name>success_msg</name>
+   </variable>
+</TestCaseEntity>

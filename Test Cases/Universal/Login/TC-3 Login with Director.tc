@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-3 Login with Director</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1b711d7e-352a-4f42-bb4b-6bfe76389c88</testCaseGuid>
+   <variable>
+      <defaultValue>'test3004@yopmail.com'</defaultValue>
+      <description></description>
+      <id>95fb0e14-5fef-4fda-bedb-a1303e9990d8</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>'3tl@testing'</defaultValue>
+      <description></description>
+      <id>84e6614f-5623-4567-87f3-08512a37a8b0</id>
+      <masked>false</masked>
+      <name>Pswrd</name>
+   </variable>
+</TestCaseEntity>

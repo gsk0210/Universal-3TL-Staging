@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify the reward on the reward page</description>
+   <name>Tc-3 Verify the Digital rewards on reward page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0c0bf5ef-e729-45b2-88d8-ac26ac743f36</testCaseGuid>
+   <variable>
+      <defaultValue>'Kicking and Screaming'</defaultValue>
+      <description></description>
+      <id>1e423ba9-302d-443c-9259-6aa6294b6951</id>
+      <masked>false</masked>
+      <name>Title</name>
+   </variable>
+   <variable>
+      <defaultValue>'Digital Movie'</defaultValue>
+      <description></description>
+      <id>ffd90a2e-038f-435b-80c2-7ec037eccad2</id>
+      <masked>false</masked>
+      <name>Short_des</name>
+   </variable>
+   <variable>
+      <defaultValue>'8be1c7b396cf9d694babd31c3202f0bc-b4be01f3ba2f6de759738fb625d165da'</defaultValue>
+      <description></description>
+      <id>dfa5fce2-9b48-4ad0-a55f-26b34e32f661</id>
+      <masked>false</masked>
+      <name>behavior_id</name>
+   </variable>
+   <variable>
+      <defaultValue>'Bill Parrish (Anthony Hopkins) has it all - success, wealth and power. Days before his 65th birthday, he receives a visit from a mysterious stranger, Joe Black (Brad Pitt), who soon reveals himself as Death. In exchange for extra time, Bill agrees to serve as Joe\'s earthly guide. But will he regret his choice when Joe unexpectedly falls in love with Bill\'s beautiful daughter Susan (Claire Forlani).'</defaultValue>
+      <description></description>
+      <id>3ff11dbe-7fb8-43e8-8d92-c9ec4d84bde0</id>
+      <masked>false</masked>
+      <name>long_description</name>
+   </variable>
+   <variable>
+      <defaultValue>'Sorry! You’ve already redeemed this reward.'</defaultValue>
+      <description></description>
+      <id>5ab1f738-82fb-4300-873a-f7f040cb6410</id>
+      <masked>false</masked>
+      <name>popup_message</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://universal.3tlstaging.com/reward-preview/'</defaultValue>
+      <description></description>
+      <id>57b9868b-6d78-48d7-aeba-25a916779e4d</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'Sorry! This reward can only be redeemed once.'</defaultValue>
+      <description></description>
+      <id>7bad59e8-b42d-405d-a97a-6095d86af06f</id>
+      <masked>false</masked>
+      <name>Toast_msg</name>
+   </variable>
+   <variable>
+      <defaultValue>'You\'ve redeemed a reward!'</defaultValue>
+      <description></description>
+      <id>729eb406-0834-4c32-aa3a-d17daf30b54b</id>
+      <masked>false</masked>
+      <name>success_msg</name>
+   </variable>
+</TestCaseEntity>

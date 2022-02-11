@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Register_Login_Button</name>
+   <tag></tag>
+   <elementGuidId>a981fcff-2dc2-4979-a81e-015533d1563d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/app-root/app-header/header/div/div/div/nav/app-account-menu/div[1]/ul/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/app-root/app-header/header/div/div/div/nav/app-account-menu/div[1]/ul/div/a</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Add Video To Earn Point Page</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description>The title of the video action added on the Earn Points page.</description>
+      <initValue>'No Time To Die: Jamaica'</initValue>
+      <name>videoTitle</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Short description of the newly added video on the Earn Points page.</description>
+      <initValue>'Cast &amp; Crew talk about filming in Jamaica'</initValue>
+      <name>shortDescription</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Long Description on the added preview page</description>
+      <initValue>'Jamaica has long been synonymous with Ian Fleming and his James Bond. Go behind-the-scenes as the cast talk about filming in this vibrant location.'</initValue>
+      <name>long_description</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>The test object represents the toast message that appears after finishing the video.</description>
+      <initValue>findTestObject('Earn Point action/Video Preview/ToastMessage')</initValue>
+      <name>toastElement</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>The test object represents titles of the Earn point action</description>
+      <initValue>findTestObject('Earn Point action/Earn Point/earnPointActionTitle')</initValue>
+      <name>videoTitles</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

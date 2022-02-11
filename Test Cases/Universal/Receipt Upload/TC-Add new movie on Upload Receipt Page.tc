@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case test whether the movie is added on the new movie page. Also, the description of the movies matches with the acceptance criteria and Buy Now is redirected to correct URL.</description>
+   <name>TC-Add new movie on Upload Receipt Page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7cd4e707-d23d-4664-bfc9-44707430ddbe</testCaseGuid>
+   <variable>
+      <defaultValue>'upload-receipt'</defaultValue>
+      <description></description>
+      <id>0f8121e7-ab21-486d-aa93-8f506109d553</id>
+      <masked>false</masked>
+      <name>webPage</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('PurchaseValidation/Receipt Upload/showMoreButton')</defaultValue>
+      <description></description>
+      <id>c45039b2-2a01-415e-af1d-71e546f164b2</id>
+      <masked>false</masked>
+      <name>btnShowMore</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('PurchaseValidation/Receipt Upload/imageMovie')</defaultValue>
+      <description></description>
+      <id>5ec7e09c-bb1b-48da-8801-b25b67a3a464</id>
+      <masked>false</masked>
+      <name>movieImage</name>
+   </variable>
+   <variable>
+      <defaultValue>'No Time To Die'</defaultValue>
+      <description></description>
+      <id>466aee77-cb04-41ff-8955-65e031207e6d</id>
+      <masked>false</masked>
+      <name>movieTitle</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://platform3-portalv3-production.s3.us-west-2.amazonaws.com/uniallaccess/moviecovers/191329123157_bluray_3d_clr-1.png'</defaultValue>
+      <description></description>
+      <id>c20f6d9a-1c27-4364-9708-f03b470b26a4</id>
+      <masked>false</masked>
+      <name>imgUrl</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('PurchaseValidation/ValidateCodePage/MovieFrame/uploadDes')</defaultValue>
+      <description></description>
+      <id>9f399bb2-406d-4a1d-8ce0-ce5a4eeadbd3</id>
+      <masked>false</masked>
+      <name>longDes</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('PurchaseValidation/ValidateCodePage/MovieFrame/movieGenre')</defaultValue>
+      <description></description>
+      <id>82c9772f-ef5f-4ece-82bf-b71b72bbb862</id>
+      <masked>false</masked>
+      <name>movieGenre</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('PurchaseValidation/ValidateCodePage/MovieFrame/movieRating')</defaultValue>
+      <description></description>
+      <id>67f5a71e-6e8b-4e83-815a-73c7163fa2c5</id>
+      <masked>false</masked>
+      <name>movieRating</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('PurchaseValidation/ValidateCodePage/MovieFrame/buyNowBtn')</defaultValue>
+      <description></description>
+      <id>0860850f-48d2-4b9d-ae6c-3b1cc08184fb</id>
+      <masked>false</masked>
+      <name>buyNowButton</name>
+   </variable>
+   <variable>
+      <defaultValue>'Action, Thriller'</defaultValue>
+      <description></description>
+      <id>4e5918cf-3318-474e-b198-130169aab1e1</id>
+      <masked>false</masked>
+      <name>genreText</name>
+   </variable>
+   <variable>
+      <defaultValue>'PG-13'</defaultValue>
+      <description></description>
+      <id>372c22b1-ceb1-4f74-8f3e-992dd0b82fde</id>
+      <masked>false</masked>
+      <name>ratingsText</name>
+   </variable>
+   <variable>
+      <defaultValue>'Daniel Craig returns one last time as James Bond, starring alongside Oscar® winner Rami Malek in No Time To Die. Bond has left active service and is enjoying a tranquil life in Jamaica. His peace is short-lived when his old friend Felix Leiter from the CIA turns up asking for help. The mission to rescue a kidnapped scientist turns out to be far more treacherous than expected, leading Bond onto the trail of a mysterious villain armed with dangerous new technology.'</defaultValue>
+      <description></description>
+      <id>0fc87d61-3269-474e-b58b-56628a1b443c</id>
+      <masked>false</masked>
+      <name>desText</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://www.uphe.com/movies/no-time-to-die-2021?__source=upherewards'</defaultValue>
+      <description></description>
+      <id>1dec71a4-bf44-4b22-9002-c290a50a7cf0</id>
+      <masked>false</masked>
+      <name>upheUrl</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-4 Verify the Movie add and remove on page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>62e15bb9-276e-41e7-b8d2-d9dac8574e04</testCaseGuid>
+   <variable>
+      <defaultValue>'https://universal.3tlstaging.com/validate-code'</defaultValue>
+      <description></description>
+      <id>f9357481-f31c-464a-ab7b-74c31a00b439</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'REWARDS'</defaultValue>
+      <description></description>
+      <id>f7260fea-2766-401f-9cdf-621ae780ee53</id>
+      <masked>false</masked>
+      <name>text</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Extras</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>768d8c7e-ddde-419a-8284-47d13f5b434b</testCaseGuid>
+   <variable>
+      <defaultValue>'test0405one@yopmail.com'</defaultValue>
+      <description>Email used by the QA for testing the user on Movie Star level.</description>
+      <id>2302d156-2f55-408f-801e-2304ec6a0d3d</id>
+      <masked>false</masked>
+      <name>userEmail</name>
+   </variable>
+   <variable>
+      <defaultValue>'3tl@testing'</defaultValue>
+      <description>Password for this user</description>
+      <id>0df768e7-0ed1-4db0-b06a-42bee252e764</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'No Time To Die: Jamaica'</defaultValue>
+      <description>This title can be changed</description>
+      <id>2c7c5eb8-8e4e-44e9-bba7-219efd41f104</id>
+      <masked>false</masked>
+      <name>videoTitle</name>
+   </variable>
+   <variable>
+      <defaultValue>'Cast &amp; Crew talk about filming in Jamaica'</defaultValue>
+      <description>Short description on the page</description>
+      <id>0b712910-b58b-4fff-be63-ab2d979acd37</id>
+      <masked>false</masked>
+      <name>shortDescription</name>
+   </variable>
+   <variable>
+      <defaultValue>'/home/knoldus/Desktop/3TL/Portals/Universal/Katalon Screenshots/F9 The Fast Saga: Unparalleled/Movie Star/EarnPointspage.png'</defaultValue>
+      <description></description>
+      <id>10f1064d-ba33-4ff9-93f3-46dcf902dd2e</id>
+      <masked>false</masked>
+      <name>savePath</name>
+   </variable>
+   <variable>
+      <defaultValue>'45befa0a831b6dec17467f9790bb18c9'</defaultValue>
+      <description>Behavior id of the Earn Point action</description>
+      <id>bc0936bf-1c59-4376-8701-a4ee41bb6a47</id>
+      <masked>false</masked>
+      <name>behavior_id</name>
+   </variable>
+   <variable>
+      <defaultValue>'Jamaica has long been synonymous with Ian Fleming and his James Bond. Go behind-the-scenes as the cast talk about filming in this vibrant location.'</defaultValue>
+      <description>Long Description on the preview page</description>
+      <id>ab4a34fe-bb19-4e0d-8504-b64b122a52c8</id>
+      <masked>false</masked>
+      <name>long_description</name>
+   </variable>
+   <variable>
+      <defaultValue>'15'</defaultValue>
+      <description>Points earned on sucessfully watching the video.</description>
+      <id>5e15f17c-aae9-498a-a1e2-8760fe989361</id>
+      <masked>false</masked>
+      <name>points</name>
+   </variable>
+   <variable>
+      <defaultValue>'/home/knoldus/Desktop/3TL/Portals/Universal/Katalon Screenshots/No Time To Die: Jamaica/Movie Star/Preview.png'</defaultValue>
+      <description></description>
+      <id>244ad13f-7e50-4631-81ba-f779b721f08e</id>
+      <masked>false</masked>
+      <name>savePreview</name>
+   </variable>
+   <variable>
+      <defaultValue>'/home/knoldus/Desktop/3TL/Portals/Universal/Katalon Screenshots/No Time To Die: Jamaica/Director/'</defaultValue>
+      <description></description>
+      <id>be934d91-e378-4cab-a02c-d254e3e8d548</id>
+      <masked>false</masked>
+      <name>path</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('Earn Point action/Video Preview/ToastMessage')</defaultValue>
+      <description></description>
+      <id>a9da9415-2aaa-4c73-974f-e2a26e4afcf8</id>
+      <masked>false</masked>
+      <name>toastElement</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('Earn Point action/Earn Point/earnPointActionTitle')</defaultValue>
+      <description></description>
+      <id>146401d8-bdbb-4434-99a5-256d2e281778</id>
+      <masked>false</masked>
+      <name>videoTitles</name>
+   </variable>
+</TestCaseEntity>

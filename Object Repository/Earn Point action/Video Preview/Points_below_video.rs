@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Points_below_video</name>
+   <tag></tag>
+   <elementGuidId>79602786-59c2-431b-9e77-2e0a554b5bac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;earn-points-action-preview-page&quot;]/div/div[2]/div[1]/div/div/app-action-videos/section/div[3]/h6</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;earn-points-action-preview-page&quot;]/div/div[2]/div[1]/div/div/app-action-videos/section/div[3]/h6</value>
+   </webElementProperties>
+</WebElementEntity>

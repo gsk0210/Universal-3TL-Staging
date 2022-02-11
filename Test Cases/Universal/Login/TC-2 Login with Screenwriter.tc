@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-2 Login with Screenwriter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1dfb5293-ddeb-4578-bfe1-fff393e4258c</testCaseGuid>
+   <variable>
+      <defaultValue>'ankit248@yopmail.com'</defaultValue>
+      <description></description>
+      <id>a1b99cef-9aa6-4138-a15f-091595ef2cf1</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>'3TL@testing'</defaultValue>
+      <description></description>
+      <id>0acab48c-8340-4dd2-864e-d2f33981b4ec</id>
+      <masked>false</masked>
+      <name>Pswrd</name>
+   </variable>
+</TestCaseEntity>

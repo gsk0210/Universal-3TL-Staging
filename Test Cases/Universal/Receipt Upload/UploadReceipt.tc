@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>UploadReceipt</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eb9cb473-88e5-4a1b-80e7-e93abc871661</testCaseGuid>
+   <variable>
+      <defaultValue>'/home/knoldus/Desktop/3TL/PL-18729.png'</defaultValue>
+      <description></description>
+      <id>37bc073b-945f-4fd4-ae0a-88e4283b1b5f</id>
+      <masked>false</masked>
+      <name>filePath</name>
+   </variable>
+</TestCaseEntity>

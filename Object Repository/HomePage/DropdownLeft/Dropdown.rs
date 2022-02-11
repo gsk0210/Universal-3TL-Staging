@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Dropdown</name>
+   <tag></tag>
+   <elementGuidId>a4154b01-465c-4b6d-895c-5639300d7f8b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@id='togglebtn']/ul/div/li[2]/ul//a[@href='/upload-receipt']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@id='togglebtn']/ul/div/li[2]/ul//a[@href='/upload-receipt']</value>
+   </webElementProperties>
+</WebElementEntity>

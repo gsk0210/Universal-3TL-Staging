@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-1 Login with Moviestar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7df63ac2-b5c9-455f-922f-219a6ecf3e5a</testCaseGuid>
+   <variable>
+      <defaultValue>'testing12345@yopmail.com'</defaultValue>
+      <description></description>
+      <id>d8dd4781-a3fe-4260-82a4-41bca3c2b732</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>'3TL@testing'</defaultValue>
+      <description></description>
+      <id>7b8c01bd-d1ed-460a-9c28-857ab1a504d7</id>
+      <masked>false</masked>
+      <name>Pswrd</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://universal.3tlstaging.com/home'</defaultValue>
+      <description></description>
+      <id>15343862-bc42-4164-b3fa-d3482469903e</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

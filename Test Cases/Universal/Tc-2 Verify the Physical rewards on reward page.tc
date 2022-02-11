@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>rewards</description>
+   <name>Tc-2 Verify the Physical rewards on reward page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b4916031-0d52-4fea-b1ae-b86a6da3a560</testCaseGuid>
+   <variable>
+      <defaultValue>'Pitch Perfect 3'</defaultValue>
+      <description></description>
+      <id>c82466f2-9c69-4581-a26c-7487e679e207</id>
+      <masked>false</masked>
+      <name>short_des</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://universal.3tlstaging.com/'</defaultValue>
+      <description></description>
+      <id>a16434a1-13eb-4dfb-9ba8-dacebdbab0d8</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'reward-preview/'</defaultValue>
+      <description></description>
+      <id>ccca23e5-ecf8-4e8b-90b4-6452c407186b</id>
+      <masked>false</masked>
+      <name>reward_cat</name>
+   </variable>
+   <variable>
+      <defaultValue>'8be1c7b396cf9d694babd31c3202f0bc-e16ffd26f782c90ebafdc4a6aa0674df'</defaultValue>
+      <description></description>
+      <id>2876f38f-e3a6-4257-a82c-873d3a85557b</id>
+      <masked>false</masked>
+      <name>behavior_id</name>
+   </variable>
+   <variable>
+      <defaultValue>'Sorry! You’ve already redeemed this reward.'</defaultValue>
+      <description></description>
+      <id>8da617de-0cfb-48cc-956c-39e0f5504549</id>
+      <masked>false</masked>
+      <name>popup_message</name>
+   </variable>
+   <variable>
+      <defaultValue>'Sorry! This reward can only be redeemed once.'</defaultValue>
+      <description></description>
+      <id>0fe24091-5390-4261-b0de-b2ea8c1333c7</id>
+      <masked>false</masked>
+      <name>Toast_msg</name>
+   </variable>
+   <variable>
+      <defaultValue>'SWITCH TO  ADD P.O.  BOX ADDRESS'</defaultValue>
+      <description></description>
+      <id>bedc83a3-9714-43cc-b622-2e0828cd0910</id>
+      <masked>false</masked>
+      <name>message</name>
+   </variable>
+</TestCaseEntity>

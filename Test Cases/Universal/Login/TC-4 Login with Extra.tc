@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-4 Login with Extra</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b2b65065-c409-48e2-921f-99bddbd83d35</testCaseGuid>
+   <variable>
+      <defaultValue>'soniatest@yopmail.com'</defaultValue>
+      <description></description>
+      <id>67b33b4f-2999-4ffd-8a70-765b60f1ca9c</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>'Test@123'</defaultValue>
+      <description></description>
+      <id>a8f43b2d-1f27-484a-a740-5e374e46ce70</id>
+      <masked>false</masked>
+      <name>Pswrd</name>
+   </variable>
+</TestCaseEntity>

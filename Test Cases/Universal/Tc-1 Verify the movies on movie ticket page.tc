@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tc-1 Verify the movies on movie ticket page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>28037e16-42ab-406d-ac65-ebdf849dcdda</testCaseGuid>
+   <variable>
+      <defaultValue>'The 355'</defaultValue>
+      <description></description>
+      <id>84df09b9-2848-4d80-9fc1-9dad3fbacc5a</id>
+      <masked>false</masked>
+      <name>MovieTitle</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://platform3-portalv3-production.s3.us-west-2…niallaccess/Theatrical+Releases/355_TH_poster.jpg'</defaultValue>
+      <description></description>
+      <id>ea5d2eee-c083-438e-8bc1-78d3de4a696c</id>
+      <masked>false</masked>
+      <name>Imageurl</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://platform3-portalv3-production.s3.us-west-2.amazonaws.com/uniallaccess/Theatrical+Releases/'</defaultValue>
+      <description></description>
+      <id>45f96c9f-f45c-463e-b775-bf274dd166da</id>
+      <masked>false</masked>
+      <name>Navigation</name>
+   </variable>
+</TestCaseEntity>

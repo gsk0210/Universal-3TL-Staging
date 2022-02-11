@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Add New Movie To Validate Code Page</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description>An object representing show more button</description>
+      <initValue>findTestObject('PurchaseValidation/ValidateCodePage/showMoreButton')</initValue>
+      <name>btnShowMore</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestObject('PurchaseValidation/ValidateCodePage/movieImage')</initValue>
+      <name>movieImage</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://platform3-portalv3-production.s3.us-west-2.amazonaws.com/uniallaccess/moviecovers/191329211250_4k_3doring_clr-1+2.png'</initValue>
+      <name>imgUrl</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Halloween Kills'</initValue>
+      <name>movieTitle</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestObject('PurchaseValidation/ValidateCodePage/MovieFrame/movieDescription')</initValue>
+      <name>longDes</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestObject('PurchaseValidation/ValidateCodePage/MovieFrame/movieGenre')</initValue>
+      <name>movieGenre</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestObject('PurchaseValidation/ValidateCodePage/MovieFrame/movieRating')</initValue>
+      <name>movieRating</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestObject('PurchaseValidation/ValidateCodePage/MovieFrame/buyNowBtn')</initValue>
+      <name>buyNowButton</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Horror, Thriller'</initValue>
+      <name>genreText</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'The Halloween night when Michael Myers returned isn\'t over yet. Michael manages to free himself from Laurie Strode\'s (Jamie Lee Curtis) trap to resume his ritual bloodbath. As Laurie fights for her life from injuries from her last encounter with Michael, she inspires her daughter Karen (Judy Greer), granddaughter Allyson (Andi Matichak), and all of Haddonfield to rise up against their unstoppable monster. The vigilante mob then sets out to hunt Michael down, once and for all. Evil dies tonight.'</initValue>
+      <name>desText</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'R'</initValue>
+      <name>ratingsText</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://www.uphe.com/movies/halloween-kills?__source=upherewards'</initValue>
+      <name>upheUrl</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
