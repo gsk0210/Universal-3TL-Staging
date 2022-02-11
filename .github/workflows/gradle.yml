@@ -30,9 +30,7 @@ jobs:
      - name: Katalon Studio Github Action
        uses: katalon-studio/katalon-studio-github-action@v2
        with:
-          version: '8.2.0'
-    
-          ks_api_key: '${{ secrets.SECRETS_API_KEY }}'
-          projectPath: '${{ github.WORKSPACE }}'
+          version: '8.2.0'    
+          projectPath: '${{ secrets.WORKSPACE }}'
           args: '-noSplash -retry=0 -testSuiteCollectionPath="Test Suites/Test collection 2"  -apiKey= ${{ secrets.SECRETS_API_KEY }}   --config -proxy.auth.option=NO_PROXY -proxy.system.option=NO_PROXY -proxy.system.applyToDesiredCapabilities=true'
      
