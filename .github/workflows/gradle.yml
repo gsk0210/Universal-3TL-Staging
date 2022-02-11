@@ -26,9 +26,9 @@ jobs:
          java-version: '8'
          distribution: 'temurin'
      - name: Checkout
-       uses: actions/checkout@0.9
+       uses: actions/checkout@v2
      - name: Katalon Studio Github Action
-       uses: katalon-studio/katalon-studio-github-action@v2
+       uses: katalon-studio/katalon-studio-github-action@v0.9
        with:
           version: '8.2.0'
     
