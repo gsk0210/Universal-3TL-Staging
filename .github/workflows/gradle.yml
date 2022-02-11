@@ -31,6 +31,6 @@ jobs:
        uses: katalon-studio/katalon-studio-github-action@v2
        with:
           version: '8.2.0'    
-          projectPath: '${{ secrets.WORKSPACE }}'
+          projectPath: '${{ github.WORKSPACE }}'
           args: '-noSplash -retry=0 -testSuiteCollectionPath="Test Suites/Test collection 2"  -apiKey= ${{ secrets.SECRETS_API_KEY }}   --config -proxy.auth.option=NO_PROXY -proxy.system.option=NO_PROXY -proxy.system.applyToDesiredCapabilities=true'
      
